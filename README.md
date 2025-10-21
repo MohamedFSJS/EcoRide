@@ -33,12 +33,12 @@ Ce projet a été réalisé dans le cadre du **Titre Professionnel Développeur 
 git clone https://github.com/peaky013/EcoRide.git
 cd EcoRide
 
-2️⃣ Installer les dépendances
+### 2️⃣ Installer les dépendances
 bash
 npm install
 
 
-3️⃣ Créer le fichier .env
+### 3️⃣ Créer le fichier .env
 Crée un fichier .env à la racine du dossier backend :
 env
 DB_HOST=localhost
